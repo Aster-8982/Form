@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "aftab alam",
+      "email": "aftab45@gmail.com",
+      "mobile": 8985214572,
+      "chanel": "youtube"
+    },
+    {
+      "name": "Mahtab Alam",
+      "email": "mahtab@gmail.com",
+      "mobile": "8954865245",
+      "chanel": "Facebook",
+      "id": 2
+    },
+    {
+      "name": "Faisal",
+      "email": "faisal@gmail.com",
+      "mobile": "898545245",
+      "chanel": "youtube",
+      "id": 3
+    },
+    {
+      "name": "Fahran",
+      "email": "farhan@gmail.com",
+      "mobile": "898542545",
+      "chanel": "Facebook",
+      "id": 4
+    },
+    {
+      "name": "Sadik",
+      "email": "sadik@gmail.com",
+      "mobile": "898542542",
+      "chanel": "Facebook",
+      "id": 5
+    }
+  ]
+}
